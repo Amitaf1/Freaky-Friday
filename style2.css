@@ -21,6 +21,10 @@ nav{
 
 /* 2 - black lines hovering */
 
+nav ul{
+  cursor: pointer;
+}
+
 nav li{
   position: relative;
 }
