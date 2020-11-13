@@ -89,7 +89,7 @@ ul li{
 }
 
 ul li a:hover{
-  background-color: #422428;
+  background-color: #19153e;
 }
 
 ul li ul li{
@@ -130,7 +130,7 @@ ul li:hover ul li{
     right: 0px;
     height: 90vh;
     top: 10vh;
-    background-color: #2d0c11;
+    background-color: #19153e;
     display: flex;
     flex-direction: column;
     align-items: center;
