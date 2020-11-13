@@ -185,6 +185,15 @@ body{
   font-family: 'Bitter', serif;
   color: black;
   margin-top: 150px;
+  margin-left: 460px;
+  letter-spacing: 5px;
+}
+
+.header2 h1{
+  font-size: 70px;
+  font-family: 'Bitter', serif;
+  color: black;
+  margin-top: 130px;
   margin-left: 520px;
   letter-spacing: 5px;
 }
